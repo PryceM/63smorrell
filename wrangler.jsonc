@@ -1,9 +1,7 @@
 {
   "name": "63smorrell",
-  "main": "src/worker.js",
   "compatibility_date": "2026-06-08",
   "assets": {
-    "binding": "ASSETS",
     "directory": "./public"
   }
 }
