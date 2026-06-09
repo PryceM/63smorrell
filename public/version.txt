@@ -1,5 +1,6 @@
 63 S. Morrell
-Version: v2026.06.08-1441
-Updated: 2026-06-08 14:41 ET
-Contact form: private /api/contact
-Public email links: removed
+Version: v2026.06.09-0901
+Updated: 2026-06-09 09:01 ET
+Live marker path: /version.txt
+Public marker path: /public/version.txt
+Status: public version marker corrected
