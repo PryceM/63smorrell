@@ -1,6 +1,4 @@
 63 S. Morrell
-Version: v2026.06.09-1312
-Updated: 2026-06-09 13:12 ET
-Modified by: ChatGPT
-Note: Static version marker refreshed after Cloudflare Worker reconnect.
+Version: v2026.06.09-1327
+Updated: 2026-06-09 13:27 ET
 Expected live path: /version.txt
