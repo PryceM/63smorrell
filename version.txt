@@ -1,6 +1,5 @@
 63 S. Morrell
-Version: MORRELL-ROOT-FINALPROOF-2026.06.09-A
+Version: Final test: all four sites can be updated.
 Updated: 2026-06-09 ET
-Modified by: ChatGPT
-Note: final version routing proof - root repository file.
-Expected live path: /version.txt
+Check file: root version.txt
+Live URL: /version.txt
