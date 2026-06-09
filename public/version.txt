@@ -1,4 +1,6 @@
 63 S. Morrell
-Version: v2026.06.09-1341
-Updated: 2026-06-09 13:41 ET
-Expected live path: /version.txt (P7)
+Version: MORRELL-PUBLIC-FINALPROOF-2026.06.09-B
+Updated: 2026-06-09 ET
+Modified by: ChatGPT
+Note: final version routing proof - public assets file.
+Expected live path: /version.txt
