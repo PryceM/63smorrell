@@ -1,6 +1,6 @@
 63 S. Morrell
-Version: v2026.06.09-0910
-Updated: 2026-06-09 09:10 ET
+Version: v2026.06.09-1001
+Updated: 2026-06-09 10:01 ET
 Modified by: ChatGPT
-Note: four-site version audit marker update.
+Note: Git connection restored; small commit pushed to trigger first Cloudflare Worker build.
 Expected live path: /version.txt
