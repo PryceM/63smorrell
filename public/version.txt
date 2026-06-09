@@ -1,6 +1,6 @@
 63 S. Morrell
-Version: v2026.06.09-0901
-Updated: 2026-06-09 09:01 ET
-Live marker path: /version.txt
-Public marker path: /public/version.txt
-Status: public version marker corrected
+Version: v2026.06.09-0910
+Updated: 2026-06-09 09:10 ET
+Modified by: ChatGPT
+Note: four-site version audit marker update.
+Expected live path: /version.txt
