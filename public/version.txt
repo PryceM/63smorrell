@@ -1,4 +1,4 @@
 63 S. Morrell
-Version: v2026.06.09-1334
-Updated: 2026-06-09 13:34 ET
-Expected live path: /version.txt (updated)
+Version: v2026.06.09-1341
+Updated: 2026-06-09 13:41 ET
+Expected live path: /version.txt (P7)
