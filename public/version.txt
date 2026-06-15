@@ -1,6 +1,7 @@
 63 S. Morrell
-Version: Final test: all four sites can be updated.
-Updated: 2026-06-10 ET
+Version: v2026.06.15-standardized
+Updated: 2026-06-15 ET
+Modified by: ChatGPT
+Note: source marker update.
 Check file: public/version.txt
 Live URL: /version.txt
-Codex mod1: version-only test.
