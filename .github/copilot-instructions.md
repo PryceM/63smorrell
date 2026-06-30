@@ -1,0 +1,8 @@
+- Always cd to C:\Users\pmandel.ATTAIN\GitHub\63smorrell before Git, Wrangler, or website commands.
+- Never assume the terminal is already in the correct repo.
+- Use .\pryce.cmd check before edits or deploys.
+- Use .\pryce.cmd preview for local review when needed.
+- Production deploy requires explicit Pryce approval.
+- Preserve the existing direct FormSubmit contact form in public/index.html unless Pryce explicitly approves a replacement.
+- Preserve public/assets image paths and the current property photo references.
+- Do not deploy from Downloads, extracted ZIP folders, image folders, or C:\WINDOWS\system32.
