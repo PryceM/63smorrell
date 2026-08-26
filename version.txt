@@ -1,5 +1,5 @@
 63 S. Morrell
-Version: v2026.08.26-zillow-listing-refresh
+Version: v2026.08.26-teresa-clean
 Updated: 2026-08-26 ET
-Focus: Reworked Geneva property website from active Zillow listing MLS R1709842; updated price, beds, bath, square footage, listing features, open house, delayed negotiations, and publicly exposed Zillow listing photo URLs.
+Focus: Removed buyer-facing crawler/photo-limit language; removed contact form; added direct Teresa Bianchi-VanTassel email contact and kept active listing details and photo preview.
 Live URL: https://63smorrell.prycem.com/version.txt
