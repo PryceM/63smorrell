@@ -1,5 +1,5 @@
 63 S. Morrell
-Version: v2026.08.26-teresa-clean
+Version: v2026.08.26-listing-links
 Updated: 2026-08-26 ET
-Focus: Removed buyer-facing crawler/photo-limit language; removed contact form; added direct Teresa Bianchi-VanTassel email contact and kept active listing details and photo preview.
+Focus: Added external listing links for full photo galleries on Zillow, Realtor.com, Houlihan Lawrence, and Rochester Real Estate Blog; kept Teresa Bianchi-VanTassel direct email contact and removed buyer-facing crawler/photo-limit language.
 Live URL: https://63smorrell.prycem.com/version.txt
