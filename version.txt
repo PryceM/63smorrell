@@ -1,5 +1,5 @@
 63 S. Morrell
-Version: v2026.08.26-listing-links
+Version: v2026.08.26-all-30-photos
 Updated: 2026-08-26 ET
-Focus: Added external listing links for full photo galleries on Zillow, Realtor.com, Houlihan Lawrence, and Rochester Real Estate Blog; kept Teresa Bianchi-VanTassel direct email contact and removed buyer-facing crawler/photo-limit language.
+Focus: Displays all thirty listing photos from the shared listing photo set; removes the old five-photo limitation; keeps listing details and routes all buyer inquiries directly to Teresa Bianchi-VanTassel by email.
 Live URL: https://63smorrell.prycem.com/version.txt
