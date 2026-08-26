@@ -1,6 +1,5 @@
 63 S. Morrell
-Version: Final test: all four sites can be updated.
-Updated: 2026-06-10 ET
-Check file: root version.txt
-Live URL: /version.txt
-Codex mod1: version-only test.
+Version: v2026.08.26-zillow-listing-refresh
+Updated: 2026-08-26 ET
+Focus: Reworked Geneva property website from active Zillow listing MLS R1709842; updated price, beds, bath, square footage, listing features, open house, delayed negotiations, and publicly exposed Zillow listing photo URLs.
+Live URL: https://63smorrell.prycem.com/version.txt
